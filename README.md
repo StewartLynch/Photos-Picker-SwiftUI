@@ -1,4 +1,4 @@
-# PhotosPicker - SwiftUI - iOS 15
+# PhotosPicker - SwiftUI - iOS 16
 This is the completed project and resources for the YouTube video of the same name
 
 The starter project and video is available in the notes for the video.
